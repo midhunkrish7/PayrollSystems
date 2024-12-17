@@ -1,0 +1,7 @@
+C:\Users\info\OneDrive\Desktop\pro\payrollSystem\payrollSystem\bin\Debug\payrollSystem.exe.config
+C:\Users\info\OneDrive\Desktop\pro\payrollSystem\payrollSystem\bin\Debug\payrollSystem.exe
+C:\Users\info\OneDrive\Desktop\pro\payrollSystem\payrollSystem\bin\Debug\payrollSystem.pdb
+C:\Users\info\OneDrive\Desktop\pro\payrollSystem\payrollSystem\obj\Debug\payrollSystem.csproj.AssemblyReference.cache
+C:\Users\info\OneDrive\Desktop\pro\payrollSystem\payrollSystem\obj\Debug\payrollSystem.csproj.CoreCompileInputs.cache
+C:\Users\info\OneDrive\Desktop\pro\payrollSystem\payrollSystem\obj\Debug\payrollSystem.exe
+C:\Users\info\OneDrive\Desktop\pro\payrollSystem\payrollSystem\obj\Debug\payrollSystem.pdb

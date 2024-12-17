@@ -1,0 +1,7 @@
+Midhun,100,Developer,30000,10000,5000
+Hari,101,Manager,45000,15000,7500
+Bonus: 1250
+Midhun,1001,Manager,45000,2500,1500
+Bonus: 3000
+New,1002,Intern,22000,1500,1000
+sre,1003,Developer,35000,2570,1250
